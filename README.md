@@ -1,5 +1,5 @@
 # Hi there 👋, 
-I am Dipesh Dhoj GC. My background is in Data Science and Artificial Intelligence and I have interest in Software Engineering as well. I am currently doing my Masters in Asian Institute of Technology, Thailand. 
+I am Dipesh Dhoj GC. My background is in Data Science and Artificial Intelligence and I have interest in Software Engineering as well. I am currently doing my Masters in Asian Institute of Technology, Thailand. <iframe src="https://gifer.com/embed/RiPX" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 <!--
 **1dipesh/1dipesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
