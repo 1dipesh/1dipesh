@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Dipesh Dhoj GC. My background is in Data Science and Artificial Intelligence and I have interest in Software Engineering as well. I am currently doing my Masters in Asian Institute of Technology, Thailand. 
 
 <!--
 **1dipesh/1dipesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Visitors Count**
+
+![VisitorCount](https://profile-counter.glitch.me/{1dipesh}/count.svg)
