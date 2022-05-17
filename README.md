@@ -1,4 +1,4 @@
-# Hi there, <img src="https://gifer.com/en/RiPX" width="50"> 
+# Hi there, <img src="[https://gifer.com/en/RiPX](https://media1.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif?cid=ecf05e47uxz68f8cneilvdqmjfv7l0r31doobd9j0n8od0ci&rid=giphy.gif&ct=g)" width="50"> 
 I am Dipesh Dhoj GC. My background is in Data Science and Artificial Intelligence and I have interest in Software Engineering as well. I am currently doing my Masters in Asian Institute of Technology, Thailand. 
 <!--
 **1dipesh/1dipesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
